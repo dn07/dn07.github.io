@@ -33,15 +33,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: wwww.fb.com/iamdn7
-twitter: www.twitter.com/itsmedn7
+facebook: https://www.facebook.com/iamdn7
+twitter: https://twitter.com/itsmedn7
 # google: mygoogle
-instagram: www.instagram.com/iamdn7
+instagram: https://www.instagram.com/iamdn7/
 # pinterest: mypinterest
-linkedin: www.linkedin.com/in/iamdn7
+linkedin: https://www.linkedin.com/in/iamdn7/
 # youtube: myyoutube
 # spotify: myspotify
-github: www.github.com/dn07
+github: https://github.com/dn07
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
