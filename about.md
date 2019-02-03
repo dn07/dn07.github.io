@@ -6,7 +6,7 @@ layout: page
 
 <p style="text-align:justify">Hey, I’m Deepak. I’m a student pursuing BTech in CSE from VIT, Vellore. I am skilled in Web Development, Content Writing and Digital Marketing.
 
-<br><br>I am a Manager at <span onclick="location.href = 'www.google.com';">Developer Student Club, Vellore</span>.
+<br><br>I am a Manager at <span onclick="location.href = 'https://www.google.com/';">Developer Student Club, Vellore</span>.
 
 <br><br>I like blogging, tweeting and flashing ROM's. An average of 17 tabs are always open in my mind. I support the "Ban Monday" campaign.
 
