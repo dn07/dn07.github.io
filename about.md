@@ -6,11 +6,11 @@ layout: page
 
 <p>Hey, I’m Deepak. I’m a student pursuing BTech in CSE from VIT, Vellore. I am skilled in Web Development, Content Writing and Digital Marketing.
 
-I am a Manager at Developer Student Club, Vellore.
+<br>I am a Manager at Developer Student Club, Vellore.
 
-I like blogging, tweeting and flashing ROM's. An average of 17 tabs are always open in my mind. I support the "Ban Monday" campaign.
+<br>I like blogging, tweeting and flashing ROM's. An average of 17 tabs are always open in my mind. I support the "Ban Monday" campaign.
 
-Connect with me on LinkedIn for an internship offer you feel I would fit in!</p>
+<br>Connect with me on LinkedIn for an internship offer you feel I would fit in!</p>
 
 <h2>Skills</h2>
 
