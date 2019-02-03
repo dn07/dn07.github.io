@@ -14,7 +14,7 @@ picture: https://drive.google.com/open?id=1N9CFceDARyIzB7hXcPT69E_GpzA1FkRX
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/open?id=1GpQrcZVkigYQV6o3P_T3rJE7NAWGomzF
 
 url: http://dn07.github.io
 
@@ -33,21 +33,21 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: wwww.fb.com/imadn7
+twitter: www.twitter.com/itsmedn7
 # google: mygoogle
-# instagram: myinstagram
+instagram: www.instagram.com/iamdn7
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: www.linkedin.com/in/iamdn7
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: www.github.com/dn07
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: https://medium.com/@iamdn7
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: myemail@gmail.com
