@@ -10,7 +10,7 @@ layout: page
 
 <br><br>I like blogging, tweeting and flashing ROM's. An average of 17 tabs are always open in my mind. I support the "Ban Monday" campaign.
 
-<br><br>Connect with me on LinkedIn for an internship offer you feel I would fit in!</p>
+<br><br>Connect with me on <span onclick="window.open('https://dscvit.com/', '_blank');" style ="font-weight:bold">LinkedIn</span> for an internship offer you feel I would fit in!</p>
 
 <h2>Skills</h2>
 
