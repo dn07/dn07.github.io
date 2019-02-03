@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: https://drive.google.com/open?id=1N9CFceDARyIzB7hXcPT69E_GpzA1FkRX
+external-image: false
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -33,7 +33,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: wwww.fb.com/imadn7
+facebook: wwww.fb.com/iamdn7
 twitter: www.twitter.com/itsmedn7
 # google: mygoogle
 instagram: www.instagram.com/iamdn7
