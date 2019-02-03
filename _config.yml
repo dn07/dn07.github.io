@@ -7,7 +7,7 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: https://drive.google.com/open?id=1N9CFceDARyIzB7hXcPT69E_GpzA1FkRX
 
 # If you want to include your resume, set to true
