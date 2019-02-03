@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hey, I’m Deepak. I’m a student pursuing BTech in CSE from VIT, Vellore. I am skilled in Web Development, Content Writing and Digital Marketing.
+<p> <center>Hey, I’m Deepak. I’m a student pursuing BTech in CSE from VIT, Vellore. I am skilled in Web Development, Content Writing and Digital Marketing.
 
 <br><br>I am a Manager at Developer Student Club, Vellore.
 
