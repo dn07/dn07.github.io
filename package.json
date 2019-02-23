@@ -1,7 +1,7 @@
 {
   "name": "moder-portfolio",
   "version": "1.0.0",
-  "description": "",
+  "description": "portfolio website",
   "main": "index.js",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
@@ -10,5 +10,14 @@
   "license": "MIT",
   "dependencies": {
     "node-sass": "^4.11.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dn07/dn07.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dn07/dn07.github.io/issues"
+  },
+  "homepage": "https://github.com/dn07/dn07.github.io#readme"
 }
